@@ -1,0 +1,28 @@
+
+
+
+
+/* ********************* start category *******************  */
+
+.container .item {
+    width: 10%;
+}
+
+@media (max-width: 992px) {
+    .container .item {
+        width: 20%;
+    }
+}
+
+.round-bg {
+    background-color: #0dcaf0;
+    /* width: 20%; */
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+/* ********************* End category *******************  */
+
+
+
