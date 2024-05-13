@@ -4,15 +4,7 @@
 
 /* ********************* start category *******************  */
 
-.container .item {
-    width: 10%;
-}
 
-@media (max-width: 992px) {
-    .container .item {
-        width: 20%;
-    }
-}
 
 .round-bg {
     background-color: #0dcaf0;
